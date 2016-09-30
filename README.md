@@ -1,4 +1,4 @@
-# GitHub Challenge Spring #2: .NET
+# GitHub Challenge Sprint #2: .NET
 
 ### Downloaded and installed Visual Studio Code
 =================================================
