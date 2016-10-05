@@ -13,4 +13,21 @@ May use the following tutorials:
 https://www.microsoft.com/net/tutorials/csharp/getting-started/hello-world
 https://www.codeschool.com/learn/net
 
-y
+
+--.NET
+using System;
+
+namespace ConsoleApplication
+{
+    public class Program
+    {
+        public static void Main(string[] args)
+        {
+            
+                var name = "Dave";
+
+            Console.WriteLine($"Hello {name}!");
+        }
+    }
+}
+--
