@@ -29,5 +29,6 @@ namespace ConsoleApplication
             Console.WriteLine($"Hello {name}!");
         }
     }
-}
+
 --
+Read at https://www.microsoft.com/net/tutorials/csharp/getting-started/strings Notes to follow      
