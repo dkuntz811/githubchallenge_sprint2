@@ -31,6 +31,6 @@ namespace ConsoleApplication
     }
 
 --
-Read at https://www.microsoft.com/net/tutorials/csharp/getting-started/strings Notes to follow      
+Read at https://www.microsoft.com/net/tutorials/csharp/getting-started/strings Notes to follow still    
 
 
